@@ -83,13 +83,13 @@
 
 ```bash
 # 1. 测试版本变更信息
-$ standard-version -s -a -t 'fssc-bash-v' --dry-run
+$ standard-version -s -a -t 'shell-collections-v' --dry-run
 
 # 2. 手动替换README.md版本号如： -v1.0.1-  >  -v1.0.2-
 # 3. 提交版本号改动，类型为: docs，内容为: 更新版本号及变更日志内容
 
 # 4. 更新changelog，并tag
-$ standard-version -s -a -t 'fssc-bash-v'
+$ standard-version -s -a -t 'shell-collections-v'
 
 # 5. 推送tag
 $ git push --follow-tags
