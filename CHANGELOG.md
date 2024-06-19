@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/EmirioBomb/shell-collections/compare/shell-collections-v1.1.0...shell-collections-v1.2.0) (2024-06-19)
+
+
+### ✨ 新功能
+
+* **system:** :sparkles: 新增: 获取操作系统版本信息 ([fce4cd3](https://github.com/EmirioBomb/shell-collections/commit/fce4cd3c7f25b4ffb21bee3571c81f8166e81df3))
+
+
+### 📝 文档
+
+* **README:** :memo: 更新版本号及变更日志内容 ([f1a28b7](https://github.com/EmirioBomb/shell-collections/commit/f1a28b7e131108e187b31bac7a4533627767a07c))
+
 ## [1.1.0](https://github.com/EmirioBomb/shell-collections/compare/shell-collections-v1.0.1...shell-collections-v1.1.0) (2024-06-13)
 
 
