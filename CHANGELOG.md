@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/EmirioBomb/shell-collections/compare/shell-collections-v1.2.0...shell-collections-v1.2.1) (2024-06-21)
+
+
+### 📝 文档
+
+* **Logo:** :memo: 修改Logo ([34fd5f6](https://github.com/EmirioBomb/shell-collections/commit/34fd5f69695b33759fc49e995ba9ffda579855ac))
+* **README:** :memo: 更新版本号及变更日志内容 ([ace6aa3](https://github.com/EmirioBomb/shell-collections/commit/ace6aa303c93455f17d4ba170bdaf9bfe4c33895))
+
 ## [1.2.0](https://github.com/EmirioBomb/shell-collections/compare/shell-collections-v1.1.0...shell-collections-v1.2.0) (2024-06-19)
 
 
