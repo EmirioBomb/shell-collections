@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/EmirioBomb/shell-collections/compare/shell-collections-v1.2.2...shell-collections-v1.3.0) (2024-07-26)
+
+
+### ✨ 新功能
+
+* **UI:** :sparkles: 新增列表选项功能脚本 ([14868ee](https://github.com/EmirioBomb/shell-collections/commit/14868ee5266874e4b3622881e1d81d41c3363b88))
+
+
+### 📝 文档
+
+* **README:** :memo: 更新版本号及变更日志内容 ([6a79d18](https://github.com/EmirioBomb/shell-collections/commit/6a79d184b00de982354d5d74726c2c31f1af437d))
+
 ### [1.2.2](https://github.com/EmirioBomb/shell-collections/compare/shell-collections-v1.2.1...shell-collections-v1.2.2) (2024-07-26)
 
 
